@@ -19,5 +19,8 @@ Modulos concluidos.
 {Seção 5:Javascript: Função}
 {Seção 6:Javascript: Objeto}
 {Seção 7:Javascript: Array } 
-{Seção 8:Node} (Em progreço.....)
+{Seção 8: Node} 
+{Seção 9: ESNext} (Endamento....)
 
+
+NPM usados.
