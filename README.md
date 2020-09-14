@@ -22,7 +22,10 @@ Modulos concluidos.
 {Seção 6:Javascript: Objeto}
 {Seção 7:Javascript: Array } 
 {Seção 8: Node} 
-{Seção 9: ESNext} (Endamento....)
-
+{Seção 9: ESNext} 
+{Seção 11:HTML} (Endamento....)
 
 NPM usados.
+Seção HTML5
+npm i --g http-server (Servidor http nolde )
+iniciando o servidor com (http-server)  para mudar de porta usase http -p (numero da porta)
