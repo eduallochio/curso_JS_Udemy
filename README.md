@@ -28,4 +28,10 @@ Modulos concluidos.
 NPM usados.
 Seção HTML5
 npm i --g http-server (Servidor http nolde )
-iniciando o servidor com (http-server)  para mudar de porta usase http -p (numero da porta)
+iniciando o servidor 
+cd exercicios-web
+cd html 
+(http-server)  para mudar de porta usase http -p (numero da porta)
+Tem que parar o servidor com Ctrl +C depois inicializar ele novamente com http-server -c-1 para o delei ficar menor na hora de atualizar a pagina de teste.
+
+ 
